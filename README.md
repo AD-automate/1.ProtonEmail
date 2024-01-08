@@ -11,4 +11,6 @@ Positive testing:
 6. User creates a new event and closes the tab.
 7. User signs out.
 
-8. 
+Negative testing:
+1. User inputs invalid email address.
+2. User inputs invalid password.
