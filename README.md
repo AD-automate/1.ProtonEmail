@@ -14,3 +14,5 @@ Positive testing:
 Negative testing:
 1. User inputs invalid email address.
 2. User inputs invalid password.
+
+Limitations: For negative testing, the first two scenarios can only be run on headed mode because of captcha. It will fail on headless mode
