@@ -1,9 +1,6 @@
 //Login Page
-const userEmailNew = 'weavernew_test@proton.me';
-const userPasswordNew = '@EokP23';
-
-const userEmail = 'weaver_test@proton.me';
-const userPassword = 'P4ssw0rd123!';
+const userEmail = 'REMOVED';
+const userPassword = 'REMOVED';
 
 //newEmailMessagePage
 const recipientEmail = 'aeawe@mailsac.com';
