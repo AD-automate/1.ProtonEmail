@@ -1,4 +1,7 @@
 //Login Page
+const userEmailNew = 'weavernew_test@proton.me';
+const userPasswordNew = '@EokP23';
+
 const userEmail = 'weaver_test@proton.me';
 const userPassword = 'P4ssw0rd123!';
 
